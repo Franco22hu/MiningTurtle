@@ -1,8 +1,9 @@
 
 ## Introduction
 
-This Lua script is written for the Mining Turtle, which is included in a mod ComputerCraft (www.computercraft.info) created for Minecraft (minecraft.net).
+This Lua script is written for the Mining Turtle, which is included in a mod ComputerCraft (www.computercraft.info) created for Minecraft (www.minecraft.net).
 It makes the turtle mine shafts in parallel lines until it runs out of fuel.
+Since the script is already uploaded to www.pastebin.com, you can start using it right away by the steps below.
 
 ## Setting up
 
