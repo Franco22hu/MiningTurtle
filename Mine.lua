@@ -18,8 +18,7 @@ local function tryGoForward()
 		if turtle.detect() then
 			turtle.dig()
 		elseif turtle.attack() then
-		else
-			sleep( 0.5 )
+		else sleep( 0.5 )
 		end
 	end
 end
@@ -28,8 +27,7 @@ local function tryGoUp()
 		if turtle.detectUp() then
 			turtle.digUp()
 		elseif turtle.attackUp() then
-		else
-			sleep( 0.5 )
+		else sleep( 0.5 )
 		end
 	end
 end
@@ -38,8 +36,7 @@ local function tryGoDown()
 		if turtle.detectDown() then
 			turtle.digDown()
 		elseif turtle.attackDown() then
-		else
-			sleep( 0.5 )
+		else sleep( 0.5 )
 		end
 	end
 end
