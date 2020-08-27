@@ -7,8 +7,8 @@ Since the script is already uploaded to www.pastebin.com, you can start using it
 
 ## Setting up
 
-1. Place chests then turtle in shown pattern
-	![Pattern](pattern.png?raw=true)
+![Pattern](pattern.png?raw=true)
+1. Place chests then turtle in the pattern above
 1. Place fuel (coal) in chest behind
 1. Enter turtle (right click)
 1. Type 'pastebin get cg0jVba7 mine'
